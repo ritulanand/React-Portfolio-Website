@@ -45,9 +45,7 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={logo} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Earum soluta perspiciatis molestias enim cum repellat, magnam
-                  exercitationem distinctio aliquid nam.
+                Front End Developer with 4.8 years of experience in developing responsive and cross browser pages and applications using React, Angular, Javascript, HTML, CSS , Bootstrap and jquery.
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
